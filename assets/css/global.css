@@ -76,12 +76,3 @@ body {
     border-radius: 20px;
     text-transform: capitalize;
 }
-
-.baixo {
-    height: 100px;
-    width: 100%;
-    padding: 1rem;
-    background-color: #d4aeae;
-    text-align: center;
-    border-radius: 0 0 20px 20px;
-}
